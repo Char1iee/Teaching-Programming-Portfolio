@@ -11,7 +11,11 @@ Hello! I'm **Charlie Shang**, a third year CS undergrad stuyding at UCSD. My pro
 ### Selected Videos (Please click the pictures to direct to videos)
 #### Code Explanation: Sprite Drawing a House
 
-[![Click me to view](https://github.com/Char1iee/Teaching-Programming-Portfolio/assets/47782807/b74795ac-9453-4cbb-88da-107380d19694)]( https://youtu.be/jYFIXUUsHNU)
+[![Click me to view](https://github.com/Char1iee/Teaching-Programming-Portfolio/assets/47782807/b74795ac-9453-4cbb-88da-107380d19694)](https://youtu.be/jYFIXUUsHNU)
+
+#### Code Explanation: Dancing Boy
+
+[![Click me to view](https://github.com/Char1iee/Teaching-Programming-Portfolio/assets/47782807/c9e1a820-f584-49a9-8244-733e266355c9)](https://youtu.be/FP7E0DGVJRA)
 
 ### Connect With Me
 - [Github](https://github.com/Char1iee)
