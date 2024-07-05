@@ -17,6 +17,10 @@ Hello! I'm **Charlie Shang**, a third year CS undergrad stuyding at UCSD. My pro
 
 [![Click me to view](https://github.com/Char1iee/Teaching-Programming-Portfolio/assets/47782807/c9e1a820-f584-49a9-8244-733e266355c9)](https://youtu.be/FP7E0DGVJRA)
 
+#### Code Explanation: Animal Parade
+
+[![Click me to view](https://github.com/Char1iee/Teaching-Programming-Portfolio/assets/47782807/ebc7bdf0-c48d-400e-b606-c89ebe06358e)](https://youtu.be/Fs6mGibYxsM)
+
 ### Connect With Me
 - [Github](https://github.com/Char1iee)
 - [LinkedIn](https://www.linkedin.com/in/charlie-shang1/)
