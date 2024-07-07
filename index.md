@@ -21,6 +21,9 @@ Hello! I'm **Charlie Shang**, a third year CS undergrad stuyding at UCSD. My pro
 
 [![Click me to view](https://github.com/Char1iee/Teaching-Programming-Portfolio/assets/47782807/ebc7bdf0-c48d-400e-b606-c89ebe06358e)](https://youtu.be/gG7t2axOGD0)
 
+#### Code Explanation: Nested Repeats
+[![Click me to view](https://github.com/Char1iee/Teaching-Programming-Portfolio/assets/47782807/caff03fe-8d3e-441a-a4eb-dd73b28aeefd)](https://youtu.be/jSt0bPeAQGk)
+
 ### Connect With Me
 - [Github](https://github.com/Char1iee)
 - [LinkedIn](https://www.linkedin.com/in/charlie-shang1/)
