@@ -24,6 +24,10 @@ Hello! I'm **Charlie Shang**, a third year CS undergrad stuyding at UCSD. My pro
 #### Code Explanation: Nested Repeats
 [![Click me to view](https://github.com/Char1iee/Teaching-Programming-Portfolio/assets/47782807/caff03fe-8d3e-441a-a4eb-dd73b28aeefd)](https://youtu.be/jSt0bPeAQGk)
 
+#### Code Explanation: Monkey Catching Banana
+[![Click me to view](https://github.com/Char1iee/Teaching-Programming-Portfolio/assets/47782807/5d6bca6e-d293-456d-b51d-49acbb49bec4)](https://youtu.be/awbyHNHSdEE)
+
+
 ### Connect With Me
 - [Github](https://github.com/Char1iee)
 - [LinkedIn](https://www.linkedin.com/in/charlie-shang1/)
