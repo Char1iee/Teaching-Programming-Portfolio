@@ -30,6 +30,9 @@ Hello! I'm **Charlie Shang**, a third year CS undergrad stuyding at UCSD. My pro
 #### Code Explanation: Variables
 [![Click me to view](https://github.com/Char1iee/Teaching-Programming-Portfolio/assets/47782807/85458dcd-72b2-4a89-8e52-d379ff4752e4)](https://youtu.be/YzmjIhGIw3A)
 
+#### Code Explanation: Conditional Repeat
+[![Click me to view](https://github.com/user-attachments/assets/e27286be-264b-4806-b168-7665a5567c79)](https://youtu.be/GRHv5L6oLq0)
+
 
 ### Connect With Me
 - [Github](https://github.com/Char1iee)
