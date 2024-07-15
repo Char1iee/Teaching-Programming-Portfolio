@@ -33,6 +33,9 @@ Hello! I'm **Charlie Shang**, a third year CS undergrad stuyding at UCSD. My pro
 #### Code Explanation: Conditional Repeat
 [![Click me to view](https://github.com/user-attachments/assets/e27286be-264b-4806-b168-7665a5567c79)](https://youtu.be/GRHv5L6oLq0)
 
+#### Code Explanation: If-Else
+[![Click me to view](https://github.com/user-attachments/assets/3b29f71f-2856-452c-94a2-ee3c4d99f9a7)](https://youtu.be/KUDV66WxHEk)
+
 
 ### Connect With Me
 - [Github](https://github.com/Char1iee)
