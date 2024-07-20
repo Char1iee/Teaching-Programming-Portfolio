@@ -36,6 +36,9 @@ Hello! I'm **Charlie Shang**, a third year CS undergrad stuyding at UCSD. My pro
 #### Code Explanation: If-Else
 [![Click me to view](https://github.com/user-attachments/assets/3b29f71f-2856-452c-94a2-ee3c4d99f9a7)](https://youtu.be/KUDV66WxHEk)
 
+#### Code Explanation: Nested If
+[![Click me to view](https://github.com/user-attachments/assets/6008adc3-9cab-48c5-8db9-99d33a326ed7)](https://youtu.be/K5v8H6srhBQ)
+
 
 ### Connect With Me
 - [Github](https://github.com/Char1iee)
