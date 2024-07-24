@@ -39,6 +39,9 @@ Hello! I'm **Charlie Shang**, a third year CS undergrad stuyding at UCSD. My pro
 #### Code Explanation: Nested If
 [![Click me to view](https://github.com/user-attachments/assets/6008adc3-9cab-48c5-8db9-99d33a326ed7)](https://youtu.be/K5v8H6srhBQ)
 
+#### Code Explanation: Finding Treasure
+[![Click me to view](https://github.com/user-attachments/assets/f773a0e9-1916-4785-82ff-497d72f7ccba)](https://youtu.be/qWjBPlPz8xI)
+
 
 ### Connect With Me
 - [Github](https://github.com/Char1iee)
