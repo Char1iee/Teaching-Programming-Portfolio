@@ -42,6 +42,9 @@ Hello! I'm **Charlie Shang**, a third year CS undergrad stuyding at UCSD. My pro
 #### Code Explanation: Finding Treasure
 [![Click me to view](https://github.com/user-attachments/assets/f773a0e9-1916-4785-82ff-497d72f7ccba)](https://youtu.be/qWjBPlPz8xI)
 
+#### Code Explanation: Drawing Picture in Functions
+[![Click me to view](https://github.com/user-attachments/assets/b49300cb-feab-4cbe-993d-e6683902f26d)](https://youtu.be/pT0fLIalgZc)
+
 
 ### Connect With Me
 - [Github](https://github.com/Char1iee)
