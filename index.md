@@ -45,6 +45,9 @@ Hello! I'm **Charlie Shang**, a third year CS undergrad stuyding at UCSD. My pro
 #### Code Explanation: Drawing Picture in Functions
 [![Click me to view](https://github.com/user-attachments/assets/b49300cb-feab-4cbe-993d-e6683902f26d)](https://youtu.be/pT0fLIalgZc)
 
+#### Code Explanation: List
+[![Click me to view](https://github.com/user-attachments/assets/436e4238-e352-4187-84f7-2a3691fe3464)](https://youtu.be/Sjh9Z8Yeahg)
+
 
 ### Connect With Me
 - [Github](https://github.com/Char1iee)
